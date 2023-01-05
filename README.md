@@ -1,7 +1,6 @@
 # Calculadora
 
-Esta é uma calculadora simples escrita em Python. Ela é capaz de realizar cálculos básicos, como adição, subtração, multiplicação e divisão, bem como calcular o resto de uma divisão inteira.
-
+Esta é uma calculadora simples escrita em Python. Ela é capaz de realizar cálculos básicos, como adição, subtração, multiplicação e divisão.
 # Instalação
 
 Para instalar e executar a calculadora, você precisará ter o Python 3 instalado em seu sistema. Você também pode precisar instalar quaisquer dependências ou bibliotecas adicionais.
@@ -18,7 +17,7 @@ Se você deseja contribuir com o projeto, ficarei feliz em aceitar pull requests
 
 # Calculator
 
-This is a simple calculator written in Python. It is able to perform basic calculations such as addition, subtraction, multiplication and division, as well as calculate the remainder of an integer division.
+This is a simple calculator written in Python. It is able to perform basic calculations such as addition, subtraction, multiplication and division.
 
 # Installation
 
