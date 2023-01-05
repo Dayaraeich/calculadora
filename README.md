@@ -12,4 +12,22 @@ Este código está disponível sob a licença MIT. Você pode usar, copiar, modi
 
 # Contribuições
 
-Se você deseja contribuir com o projeto, ficaremos felizes em aceitar pull requests. Certifique-se de adicionar comentários claros e detalhados ao seu código e de testar as suas alterações antes de enviar uma solicitação. Todas as contribuições serão revisadas e precisam ser aprovadas antes de serem mescladas.
+Se você deseja contribuir com o projeto, ficarei feliz em aceitar pull requests. Certifique-se de adicionar comentários claros e detalhados ao seu código e de testar as suas alterações antes de enviar uma solicitação. Todas as contribuições serão revisadas e precisam ser aprovadas antes de serem mescladas.
+
+[English]
+
+# Calculator
+
+This is a simple calculator written in Python. It is able to perform basic calculations such as addition, subtraction, multiplication and division, as well as calculate the remainder of an integer division.
+
+# Installation
+
+To install and run the calculator, you will need to have Python 3 installed on your system. You may also need to install any additional dependencies or libraries.
+
+# License
+
+This code is available under the MIT license. You are free to use, copy, modify and distribute the code as you wish, as long as you include the license information and copyright notices.
+
+# Contributions
+
+If you would like to contribute to the project, I am happy to accept pull requests. Be sure to add clear and detailed comments to your code and test your changes before submitting a request. All contributions will be reviewed and need to be approved before being merge
